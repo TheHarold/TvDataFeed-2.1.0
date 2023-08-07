@@ -27,5 +27,6 @@ setup(
         "selenium",
         "websocket-client",
         "chromedriver-autoinstaller",
+        "requests",
     ],
 )
